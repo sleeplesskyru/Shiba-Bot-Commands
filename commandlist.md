@@ -1,7 +1,7 @@
 -----------------
 |  commandName	|
 |  CATEGORY     |
-|  Description  | .... user Ctrl+F to search a command
+|  Description  |  use Ctrl+F to search a command
 -----------------
 
 
