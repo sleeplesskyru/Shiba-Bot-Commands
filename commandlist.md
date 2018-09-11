@@ -89,6 +89,10 @@ crimeCoefficient
 FUN
 Find the crime coefficient of a user.
 
+cuddle
+FUN
+Cuddle someone!
+
 dog
 FUN
 Shows a random picture of a dog.
@@ -129,9 +133,21 @@ hello
 FUN
 Get greetings from Bastion.
 
+hug
+FUN
+Give a hug!
+
+kiss
+FUN
+Give a kiss!
+
 leet
 FUN
 Sends the same message that you had sent, but as leet text.
+
+pat
+FUN
+Pat someone!
 
 pirateSpeak
 FUN
@@ -180,6 +196,10 @@ Combines two or more mentioned user's names.
 slap
 FUN
 Give a slap to another user.
+
+ticke
+FUN
+Tickle someone!
 
 xkcd
 FUN
